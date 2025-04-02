@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 export default function useSingingSoda() {
 
-  const [audio] = useState(new Audio('https://github.com/callahan-codes/3D/blob/main/public/audio/jugg-jingle.mp3'));
+  const [audio] = useState(new Audio('/3D/public/audio/jugg-jingle.mp3'));
 
   // cleanup
   useEffect(() => {
