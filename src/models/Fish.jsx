@@ -9,7 +9,7 @@ export default function Fishes() {
   // sprite data 
   const spriteData = [
     { 
-      path: "https://github.com/callahan-codes/3D/blob/main/public/images/fish-orange.png", 
+      path: "/3D/images/fish-orange.png", 
       startPosition: [-10, 45, -100], 
       speedX: 0.5, 
       speedY: 1, 
@@ -18,7 +18,7 @@ export default function Fishes() {
       scale: 2.5
     },
     { 
-      path: "https://github.com/callahan-codes/3D/blob/main/public/images/fish-blue.png", 
+      path: "/3D/images/fish-blue.png", 
       startPosition: [10, 45, -100], 
       speedX: 0.6, 
       speedY: 1.2, 
@@ -27,7 +27,7 @@ export default function Fishes() {
       scale: 2
     },
     { 
-      path: "https://github.com/callahan-codes/3D/blob/main/public/images/fish-green.png", 
+      path: "/3D/images/fish-green.png", 
       startPosition: [0, 48, -100], 
       speedX: 0.7, 
       speedY: 0.8, 
@@ -36,7 +36,7 @@ export default function Fishes() {
       scale: 5
     },
     { 
-      path: "https://github.com/callahan-codes/3D/blob/main/public/images/fish-yellow.png", 
+      path: "/3D/images/fish-yellow.png", 
       startPosition: [8, 48, -100], 
       speedX: 0.7, 
       speedY: 1.2, 
@@ -45,7 +45,7 @@ export default function Fishes() {
       scale: 6.5
     },
     { 
-      path: "https://github.com/callahan-codes/3D/blob/main/public/images/pufferfish.png", 
+      path: "/3D/images/pufferfish.png", 
       startPosition: [0, 48, -100], 
       speedX: 0.4, 
       speedY: 0.2, 
