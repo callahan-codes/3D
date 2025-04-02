@@ -12,8 +12,8 @@ export default function LiveScreens({ gltf }) {
             const videoElementLaptop = document.createElement('video');
 
             // video sources
-            videoElementTV.src = '/videos/television-vid.mp4'; 
-            videoElementLaptop.src = '/videos/television-vid.mp4'; 
+            videoElementTV.src = 'https://github.com/callahan-codes/3D/blob/main/public/videos/television-vid.mp4'; 
+            videoElementLaptop.src = 'https://github.com/callahan-codes/3D/blob/main/public/videos/television-vid.mp4'; 
 
             // looped
             videoElementTV.loop = true;
